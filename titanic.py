@@ -1,5 +1,5 @@
 import pandas as pd
-
+import numpy as np
 tit=pd.read_csv('e_titanic.csv', header=0, sep=',', index_col='PassengerId')
 
 print(tit)
@@ -64,5 +64,6 @@ print('\ncorr_Pirs=',corr_Pirs)
 
 print("finish_notbook")
 print("hellow_I'm_ready")
-
+new_arr=np.ones(10)
+print(new_arr)
 
