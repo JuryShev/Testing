@@ -63,5 +63,6 @@ print('\ncorr_Pirs=',corr_Pirs)
 # print(frame)
 
 print("finish_notbook")
+print("hellow_I'm_ready")
 
 
